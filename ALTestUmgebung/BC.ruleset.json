@@ -1,0 +1,22 @@
+{
+    "name": "Company ruleset",
+    "description": "These rules must be respected by all the AL code written within the company.",
+    "rules": [
+        {
+            "id": "AA0005",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0214",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0021",
+            "action": "Hidden"
+        },
+        {
+            "id": "AA0218",
+            "action": "Hidden"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "671f9bb1-bfea-4745-90d1-e268dd633690",
+  "name": "SwissSalary ELFO",
+  "publisher": "Boss Info AG",
+  "version": "16.0.0.2",
+  "brief": "",
+  "description": "Custom changes for the SwissSalary Extension",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "logo": "logo\\logo.png",
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "publisher": "Microsoft",
+      "name": "System Application",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "publisher": "Microsoft",
+      "name": "Base Application",
+      "version": "16.0.0.0"
+    },
+    {
+      "id": "ca3d5715-ac87-48ff-ace2-fc1605e50a69",
+      "publisher": "SwissSalary Ltd.",
+      "name": "SwissSalary 365",
+      "version": "1.5056.2.20"
+    }
+  ],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "5.0",
+  "target": "OnPrem",
+  "features": [
+    "TranslationFile",
+    "GenerateCaptions"
+  ]
+}

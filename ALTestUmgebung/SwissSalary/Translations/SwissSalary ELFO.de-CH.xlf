@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-CH" original="SwissSalary ELFO">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 3886654720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SwS Employee Export</source>
+          <target>SwS Mitarbeiter Export</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Employee Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3886654720 - ReportDataItem 977068815 - Method 72583909 - NamedType 1121159483" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Path does not exist</source>
+          <target>Pfad existiert nicht</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Employee Export - ReportDataItem SwSEmployee_g - Method OnPreDataItem - NamedType PathNotExistLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3886654720 - ReportDataItem 977068815 - Method 72583909 - NamedType 3402375115" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File successfully exported</source>
+          <target>Datei erfolgreich exportiert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Employee Export - ReportDataItem SwSEmployee_g - Method OnPreDataItem - NamedType FileExportedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3886654720 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Employee Export - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3886654720 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Directory Path</source>
+          <target>Ordner Pfad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Employee Export - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ELFO Salary Entries</source>
+          <target>ELFO Lohnposten</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 4033884572 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payroll No.</source>
+          <target>Lohnlaufnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control PLog."Payroll No." - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 1801618390 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payday Date</source>
+          <target>Abrechnungsdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control PLog."Payday Date" - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 3024217264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>fictitious salary entries</source>
+          <target>Fiktive Lohnposten</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control FIK - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 2126631343 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New page each Employee</source>
+          <target>Neue Seite pro Mitarbeiter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control NewPageEmployee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 3348941625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting</source>
+          <target>Sortierung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - Control 3348941625 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employee No.,Search Name</source>
+          <target>Personalnr.,Suchbegriff</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - Control Key - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 1115412675" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payday date for Payroll %1 must be defined.</source>
+          <target>Abrechnungsdatum für Lohnlauf %1 muss definiert sein.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType TXT0000001</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 3028502526" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Paycheck No. </source>
+          <target>Lohnabrechnung Nr. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType TXT0000002</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 2390805909" size-unit="char" translate="yes" xml:space="preserve">
+          <source>from</source>
+          <target> vom </target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source has been modified.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType TXT0000003</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 3497290120" size-unit="char" translate="yes" xml:space="preserve">
+          <source> Allocation Group</source>
+          <target> Kreis </target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">Source has been modified.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType TXT0000004</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 2859593503" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(definitely)</source>
+          <target>(definitiv)</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType TXT0000005</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 477716058" size-unit="char" translate="yes" xml:space="preserve">
+          <source>(provisionally)</source>
+          <target>(provisorisch)</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType TXT0000006</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 1115746063" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H16Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 1279726002" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rate</source>
+          <target>Ansatz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H15Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 3548311889" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Anzahl</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H14Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 2412723190" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Typ</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H11Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 3960151829" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H10Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 372314893" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary Type</source>
+          <target>Lohnart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H9Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 1309867329" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <target>Seite</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H5Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 3122445061" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary Entries</source>
+          <target>Lohnposten</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H1Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 2117246836" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job</source>
+          <target>Projekt</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType H13Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 3165174502" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Allowance</source>
+          <target>Total Zulagen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType ZulagenCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 2469656581" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Deduction</source>
+          <target>Total Abzüge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType AbzügeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 1035579284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment</source>
+          <target>Auszahlung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType AuszahlungCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 4037781128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Employer Contributions</source>
+          <target>Arbeitgeberbeiträge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType AGBeiträgeCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3594323992 - NamedType 996454601" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Expenses</source>
+          <target>Total Spesen</target>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report SwSE Salary Entries - NamedType Total_SpesenCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 2663800564 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SwS Employee</source>
+          <target>SwS Mitarbeiter Export</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort SwSE Employee - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
